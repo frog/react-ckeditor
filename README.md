@@ -1,4 +1,4 @@
-# Editor testing with MUI
+# Editor testing
 Quick  test CKEditor5, it's plugins, their conflicts between and also which ones they require as a dependency.
 
 ## Installation
